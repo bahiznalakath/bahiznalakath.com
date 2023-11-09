@@ -72595,7 +72595,7 @@ A.Hm.prototype={
 I(a){return B.KH}}
 A.Hk.prototype={
 I(a){var s=null,r=$.kO.S(),q=10*$.b0.S()/100,p=$.kO.S(),o=$.b0.S(),n=t.p
-return A.bb(new A.bJ(new A.aF(q,0,q,0),A.aqF(A.e_(A.a([A.bG(s,A.aqF(A.fc(A.a([A.e_(A.a([A.bL("Hi there, Welcome to My Space  ",B.Qr,s),new A.iY(A.Hu("assets/gif/hi.gif",B.Z,s,40,s,s),B.cO,B.c6,B.h,s)],n),B.e_,B.M,B.bM),A.bb(s,0.5*$.b0.S()/100,s),A.bL("I'm Muhammed Bahiz  N,",B.Qs,s),A.e_(A.a([B.RO,A.ak_($.awK(),!0,!0)],n),B.e_,B.M,B.H),A.bb(s,1.5*$.b0.S()/100,s),new A.bJ(new A.aF(0,0,10*$.b0.S()/100,0),A.bL(u.p,A.cF(s,s,B.A0,s,s,s,s,s,s,s,s,A.pO(a,20),s,s,B.k,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.bb(s,3*$.b0.S()/100,s),new A.nx("download cv",new A.a0r(),s)],n),B.bh,B.M,B.bM)),B.l,s,s,s,s,s,new A.aF(0,10*p/100,0,0),s,s,s,55*o/100),B.xc],n),B.P,B.hP,B.H)),s),80*r/100,s)}}
+return A.bb(new A.bJ(new A.aF(q,0,q,0),A.aqF(A.e_(A.a([A.bG(s,A.aqF(A.fc(A.a([A.e_(A.a([A.bL("Hi there, Welcome to My Space  ",B.Qr,s),new A.iY(A.Hu("assets/gif/hi.gif",B.Z,s,40,s,s),B.cO,B.c6,B.h,s)],n),B.e_,B.M,B.bM),A.bb(s,0.5*$.b0.S()/100,s),A.bL("I'm Muhammed Bahiz  N,",B.Qs,s),A.e_(A.a([B.RO,A.ak_($.awK(),!0,!0)],n),B.e_,B.M,B.H),A.bb(s,1.5*$.b0.S()/100,s),new A.bJ(new A.aF(0,0,10*$.b0.S()/100,0),A.bL(u.p,A.cF(s,s,B.A0,s,s,s,s,s,s,s,s,A.pO(a,20),s,s,B.k,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.bb(s,3*$.b0.S()/100,s),new A.nx("download resume",new A.a0r(),s)],n),B.bh,B.M,B.bM)),B.l,s,s,s,s,s,new A.aF(0,10*p/100,0,0),s,s,s,55*o/100),B.xc],n),B.P,B.hP,B.H)),s),80*r/100,s)}}
 A.a0r.prototype={
 $0(){var s=window
 s.toString
